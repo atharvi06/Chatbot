@@ -1,0 +1,2 @@
+# Chatbot
+This is a simple chatbot which uses Natural Language Toolkit (NLTK) is a platform used for building Python programs that work with human language data for applying in statistical natural language processing (NLP). It contains text processing libraries for tokenization, parsing, classification, stemming, tagging and semantic reasoning.It also has voice feature which uses pyttsx3 which is a text-to-speech conversion library.
